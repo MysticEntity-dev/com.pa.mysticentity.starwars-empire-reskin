@@ -1,0 +1,3 @@
+texture-max-size: 1024
+texture-format-alpha: rgba
+texture-format-noalpha: rgba

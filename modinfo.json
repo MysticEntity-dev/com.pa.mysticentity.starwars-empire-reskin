@@ -1,0 +1,23 @@
+{
+    "context": "client",
+    "identifier": "com.pa.mysticentity.starwars-empire-reskin",
+    "display_name": "StarWars Empire Reskin",
+    "description": "Only cosmetic",
+    "author": "mysticentity",
+    "version": "0.0.1",
+    "build": "94243-pte",
+    "date": "2023-01-01",
+    "signature": "",
+    "forum": "https://forums.uberent.com/threads/palobby-com-games-browser-global-chat-stats-using-chrome-chromium.69168/",
+    "github": "https://github.com/MysticEntity-dev/com.pa.mysticentity.starwars-empire-reskin",
+    "category":
+    [
+        "textures",
+        "icons",
+        "shaders",
+        "classic",
+        "titans"
+    ],
+    "icon": "",
+    "hidden": true
+}
