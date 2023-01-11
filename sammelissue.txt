@@ -1,0 +1,5 @@
+"D:\SteamLibrary\steamapps\common\Planetary Annihilation Titans\bin_x64\tools\papatran.exe" -o pa\terrain\sky\textures\skybox_01_front.papa pa\terrain\sky\textures\skybox_01_front.png
+./papatran.exe --texture-mode include -o orbital_battleship_material.papa orbital_battleship_material.png
+Credits: 
+      StarDestroyer: "Star Destroyer" (https://skfb.ly/N6Mx) by rubaun is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+	Tie Fighter: "Low Poly TIE Fighter" (https://skfb.ly/ovHCN) by Maximusprime97 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
